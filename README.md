@@ -10,7 +10,7 @@ This project focuses on delivering a modern and intuitive movie streaming interf
 - **Cutting-Edge Aesthetics**: A design that combines minimalism with functionality.  
 
 ## 🎨 Design Preview  
-Explore the full design on [Figma](Insert Figma Link Here).  
+Explore the full design on [Figma](https://www.figma.com/design/hYRdAOaZtCbCiBCvJW32Gf/filmflix-Design?node-id=0-1&t=rfPN7T2ODr7H8iSh-1).  
 
 ## 🚀 Features  
 - **User-Centric Design**: Built with the end-user in mind for an engaging experience.  
@@ -30,7 +30,7 @@ Feel free to fork the repository, suggest enhancements, or contribute your ideas
 
 ## 📬 Contact  
 Have feedback or want to discuss the project?  
-Connect with me on [LinkedIn](Insert LinkedIn Profile Link) or email me at [Your Email Address].  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vijay-suriya-v/) or email me at [vijaysuriyav28@gmail.com].  
 
 ---
 
